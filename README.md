@@ -1,7 +1,6 @@
 ### Oiiee, eu me chamo Diogo 👋
 
-- 🔭 Atualmente estou desempregado
-- 🌱 Estudando HTML, CSS, Javascript, NodeJS
+- 🌱 Estudando HTML, CSS, Javascript, ReactJS
 - 😄 Pronouns: ele/dele
 
  <div>
