@@ -1,7 +1,31 @@
-### Oiiee, eu me chamo Diogo 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-- 🌱 Studying HTML, CSS, Javascript, ReactJS
-- 😄 Pronouns: ele/dele
+<p align="left"> 
+  Olá, me chamo Diogo Marques e sou um<strong>desenvolvedor WEB</strong>.<br>
+  Atualmente estou concluindo o E.M e estudando JS.
+</p>
+
+<p align="left">
+  🦄 Competências: <strong>HTML, CSS, JavaScript</strong>
+</p>
+
+<p align="left">
+  💌 Quer entrar em contato comigo? Você pode usar estas alternativas ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=contato.diogoamv@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogo-marques-719950221/" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5534999750326&text=Ol%C3%A1"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/diogo.amv/"/></a>
+</p>  
 
  <div>
   <a href= "https://github.com/DiogoAMV">
@@ -17,9 +41,6 @@
   ##
   
   <div> 
-  <a href="https://www.instagram.com/diogo.amv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<!--   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
  
   ![Snake animation](https://github.com/diogoamv/diogoamv/blob/output/github-contribution-grid-snake.svg)
  
