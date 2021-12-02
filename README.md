@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, me chamo Diogo Marques e sou um<strong>desenvolvedor WEB</strong>.<br>
-  Atualmente estou concluindo o E.M e estudando JS.
+  Olá, me chamo Diogo Marques e sou um <strong>desenvolvedor WEB</strong>.<br>
+  Atualmente estou concluindo o E.M e estudando ReactJS.
 </p>
 
 <p align="left">
