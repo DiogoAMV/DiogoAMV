@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hello, My name is Diogo Marques👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Olá, eu me chamo Diogo Marques 👨‍💻
 
-I'm a Front End Developer, passionate about technology and I also love to learn new things.
+Sou um Desenvolvedor Front End, apaixonado por tecnologia e também adoro aprender coisas novas.
 
 ## ⚡ Stack
 
-Here are some things I learned along my learning journey.
+Aqui estão algumas coisas que aprendi ao longo da minha jornada de aprendizado.
 
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
  
@@ -22,9 +22,9 @@ Here are some things I learned along my learning journey.
 
  
 
-## 📫 Contact
+## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-marques-719950221/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/diogov.dev/)
 
 
- or send me an [email](mailto:contato.diogoamv@gmail.com).
+ou me mande um [email](mailto:contato.diogoamv@gmail.com).
