@@ -9,7 +9,7 @@ Sou um Desenvolvedor Front End, apaixonado por tecnologia e também adoro aprend
 
 Aqui estão algumas coisas que aprendi ao longo da minha jornada de aprendizado.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,nodejs,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,styledcomponents,nodejs,docker)](https://skillicons.dev)
  
 
  
