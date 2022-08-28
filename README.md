@@ -5,6 +5,12 @@
 
 Sou um Desenvolvedor Front End, apaixonado por tecnologia e também adoro aprender coisas novas.
 
+<div align="left">
+  <a href="https://github.com/diogoamv">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogoamv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoamv&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ## ⚡ Stack
 
 Aqui estão algumas coisas que aprendi ao longo da minha jornada de aprendizado.
