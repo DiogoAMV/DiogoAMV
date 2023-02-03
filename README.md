@@ -15,7 +15,7 @@ Aqui estão algumas coisas que aprendi ao longo da minha jornada de aprendizado.
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-marques-719950221/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/diogov.dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/diogomv.dev/)
 
 
 ou me mande um [email](mailto:contato.diogoamv@gmail.com).
