@@ -1,12 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Olá mundo
 Meu nome é Diogo Marques, tenho 17 anos e sou um desenvolvedor Front-End.
 
-<div align="left">
-  <a href="https://github.com/diogoamv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogoamv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoamv&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ## ⚡ Stack
 
 Aqui estão algumas coisas que aprendi ao longo da minha jornada de aprendizado.
